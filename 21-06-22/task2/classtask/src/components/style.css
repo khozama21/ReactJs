@@ -1,0 +1,11 @@
+.par{
+    color: red;
+}
+.lab{
+    color: aqua;
+    margin-left: 2%;
+}
+.card{
+    width: 25%;
+    display: inline-block;
+}
